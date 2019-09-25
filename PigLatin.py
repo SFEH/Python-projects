@@ -20,6 +20,6 @@ def main():
 
     input("\nPress Enter to exit.")
 
-//Niyazi EKinci
+
 if __name__ == "__main__":
     main()
