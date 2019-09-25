@@ -1,5 +1,5 @@
 """Generate pig latin words according to given words."""
-//Sosis ve Salam1
+
 def main():
     """Take words from user to generate and print pig latin words."""
     while True:
